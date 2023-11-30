@@ -34,4 +34,11 @@ export const testimonials = [
     role: "Software Developer",
     test: "ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
   },
+  {
+    id: 6,
+    link: "https://www.linkedin.com/in/",
+    name: "Lorem Ipsum",
+    role: "Full-Stack Web Developer. JavaScript | Rails | React | Redux.",
+    test: "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur",
+  },
 ];
